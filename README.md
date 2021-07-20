@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevZeere
-- 👀 I’m interested in learn to program
+- 👀 I’m interested in learn more
 - 🌱 I’m currently learning Android (Java)
 - 📫 How to reach me josehigor888@hotmail.com
 
